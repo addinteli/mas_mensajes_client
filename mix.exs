@@ -29,8 +29,8 @@ defmodule MasMensajes.Mixfile do
       description: "Mas Mensajes client.",
       package: package(),
       name: "Mas Mensajes client",
-      source_url: "https://github.com/paridin/mas_mensajes_client",
-      homepage_url: "https://paridin.com",
+      source_url: "https://github.com/addinteli/mas_mensajes_client",
+      homepage_url: "https://www.addinteli.com.mx/",
       docs: [
         # The main page in the docs
         main: "MasMensajes",
